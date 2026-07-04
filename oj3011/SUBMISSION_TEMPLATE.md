@@ -122,7 +122,7 @@ Do not copy AI's explanation.
 Do not copy another person's explanation.
 
 ```text
-Step 1: Input first color and second color with lower() to detect random uppercase and easy to use in condition
+Step 1: Input first color and second color with lower() to protect random uppercase and easy to use in condition
 Step 2: If any color not in RGB it will show "Error"
 Step 3: Otherwise, it will show mixed color
 Step 4: If both colors are the same, it will show default color (first color)
