@@ -73,14 +73,7 @@ Also explain the input, output, and important constraints.
 If you do not fully understand the problem yet, write what you currently understand. Your understanding may be incomplete or incorrect, but you must make a genuine attempt.
 
 ```text
-The problem wants me to make a program that mixes two colors in RGB
-
-Input:
-Receives first color
-Receives second color
-
-Output:
-Mixed color
+The problem wants me to make a program that mixes two colors in RGB by input first color and second color then output mixed color but if first color or second color isn't RGB it will show "Error"
 ```
 
 ---

@@ -73,7 +73,7 @@ Also explain the input, output, and important constraints.
 If you do not fully understand the problem yet, write what you currently understand. Your understanding may be incomplete or incorrect, but you must make a genuine attempt.
 
 ```text
-This problem wants me to make a program that input food/drinks price then output the price that already adds 10% service price and 7% VAT
+This problem wants me to make a program that input food/drinks price then output the price that already adds 10% service price and 7% VAT, the service price will set to 50 if it's less than 50 and it will set to 1000 if it's more than 1000
 ```
 
 ---
