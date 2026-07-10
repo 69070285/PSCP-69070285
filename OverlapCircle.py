@@ -1,9 +1,9 @@
 """OverlapCircle"""
 
-x1 = input()
-y1 = input()
-r1 = input()
-x2 = input()
-y2 = input()
-r2 = input()
+x1 = int(input())
+y1 = int(input())
+r1 = int(input())
+x2 = int(input())
+y2 = int(input())
+r2 = int(input())
 
