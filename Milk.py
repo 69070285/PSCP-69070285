@@ -5,6 +5,8 @@ cap = int(input())
 claim = int(input())
 money = float(input())
 total = 0
+result = 0
+add = 0
 
 while money >= price:
     total += 1
@@ -13,5 +15,10 @@ while money >= price:
 if not cap:
     print(total)
 else:
-    total = total + ((total // cap) * claim)
-    print(total)
+    result = total
+    while total >= cap:
+        add = (total // cap) * claim
+        result += add
+        total = (total % cap) + add
+
+    print(result)
